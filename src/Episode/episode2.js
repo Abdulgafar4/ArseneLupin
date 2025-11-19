@@ -1,0 +1,55 @@
+// Episode 2 - Arsen Lupin Autobiography (Part 2)
+
+export const episode2 = {
+    title: "Arsen Lupin — Autobiography (Part 2)",
+    paragraphs: [
+      {
+        english: "As I moved from city to city, I found myself shaped by every meeting and every quiet moment between them. I remember arriving in a grey coastal town, stepping off a slow train with the weight of fatigue in my legs, my boots covered in dry dust from previous roads. I went straight to a small house near the harbor, where I rented a narrow room beside an old man who worked with wood. He spoke little, but every morning he would nod to me with a kind of solemn respect before starting his craft.",
+        french: "Alors que je me déplaçais de ville en ville, je me suis trouvé façonné par chaque rencontre et chaque moment tranquille entre elles. Je me souviens être arrivé dans une ville côtière grise, descendant d'un train lent avec le poids de la fatigue dans les jambes, mes bottes couvertes de poussière sèche des routes précédentes. Je suis allé directement dans une petite maison près du port, où j'ai loué une chambre étroite à côté d'un vieil homme qui travaillait le bois. Il parlait peu, mais chaque matin, il me faisait un signe de tête avec une sorte de respect solennel avant de commencer son métier."
+      },
+      {
+        english: "There, I learned the discipline of simple living. I would wash my face in cold water, cook whatever small meal I could afford—often just bread, butter, and milk—and then sit at a worn table, planning my day with the same deliberate care one uses to plan a long journey. My work at that time was uncertain; I took whatever small tasks were offered. Sometimes I would help repair a door, lift heavy boxes, carry tools, or clean the floor of a little workshop. At night I read, studied, and wrote.",
+        french: "Là, j'ai appris la discipline de la vie simple. Je me lavais le visage à l'eau froide, cuisinais le petit repas que je pouvais me permettre—souvent juste du pain, du beurre et du lait—puis m'asseyais à une table usée, planifiant ma journée avec le même soin délibéré que l'on utilise pour planifier un long voyage. Mon travail à cette époque était incertain ; j'acceptais toutes les petites tâches offertes. Parfois, j'aidais à réparer une porte, soulevais de lourdes caisses, transportais des outils ou nettoyais le sol d'un petit atelier. La nuit, je lisais, étudiais et écrivais."
+      },
+      {
+        english: "What I learned from those days was that even a life of limited means could be rich in purpose. The quiet was not a punishment but a teacher. I learned to listen—to the wind, the distant sea, the small cracking sound of wood expanding in the cool night air. I realized that much of life is hidden in these small, nearly invisible details.",
+        french: "Ce que j'ai appris de ces jours, c'est qu'une vie de moyens limités pouvait être riche en but. Le silence n'était pas une punition mais un enseignant. J'ai appris à écouter—le vent, la mer lointaine, le petit craquement du bois qui se dilate dans l'air frais de la nuit. J'ai réalisé qu'une grande partie de la vie est cachée dans ces petits détails, presque invisibles."
+      },
+      {
+        english: "During that period, I spent hours reflecting on the strange balance between order and chaos in human existence. A single error could bring danger; a single moment of courage could rewrite the future. I began keeping careful records of my thoughts, arranging them by date, writing about behavior, sense, impulse, memory, desire, and the ever-changing condition of the human mind. I wrote about love, hate, fear, hope, and how each emotion moved through a person like a quiet current.",
+        french: "Pendant cette période, j'ai passé des heures à réfléchir sur l'étrange équilibre entre l'ordre et le chaos dans l'existence humaine. Une seule erreur pouvait apporter le danger ; un seul moment de courage pouvait réécrire l'avenir. J'ai commencé à tenir des registres soigneux de mes pensées, les organisant par date, écrivant sur le comportement, le sens, l'impulsion, la mémoire, le désir, et l'état toujours changeant de l'esprit humain. J'ai écrit sur l'amour, la haine, la peur, l'espoir, et comment chaque émotion se déplaçait à travers une personne comme un courant tranquille."
+      },
+      {
+        english: "One evening, while reading by a dim lamp, I realized something important: the 850 basic words I had memorized in my youth were not a limitation—they were keys. Each one connected to a deeper concept, a deeper truth, a deeper corner of the world. And so I began an unusual project—one that would define my later life. I decided to weave each of those words into a single continuous story of myself, not as a demonstration of memory but as a reflection of how deeply language is tied to identity.",
+        french: "Un soir, en lisant à la lumière d'une lampe tamisée, j'ai réalisé quelque chose d'important : les 850 mots de base que j'avais mémorisés dans ma jeunesse n'étaient pas une limitation—c'étaient des clés. Chacun se connectait à un concept plus profond, une vérité plus profonde, un coin plus profond du monde. Et ainsi j'ai commencé un projet inhabituel—un qui définirait ma vie ultérieure. J'ai décidé de tisser chacun de ces mots dans une seule histoire continue de moi-même, non pas comme une démonstration de mémoire mais comme une réflexion sur la façon dont le langage est profondément lié à l'identité."
+      },
+      {
+        english: "To do that, I revisited my past. I wrote about my family—my mother with her soft voice and gentle hands, my father with his hard work and steady judgment, my older brother who taught me how to climb a tree, how to use a knife, how to mend a torn shirt, and how to recognize a man's character from the way he walks. I wrote about my first friend, a boy with sharp eyes and a quick laugh, who later became a soldier in a distant army. I wrote about the farm where I spent summers helping my uncle gather fruit and cut grass; about the river where I learned to swim; about the storm that cracked the big branch of the old tree in our yard.",
+        french: "Pour faire cela, j'ai revisité mon passé. J'ai écrit sur ma famille—ma mère avec sa voix douce et ses mains tendres, mon père avec son travail acharné et son jugement ferme, mon frère aîné qui m'a appris à grimper à un arbre, à utiliser un couteau, à réparer une chemise déchirée, et à reconnaître le caractère d'un homme à sa façon de marcher. J'ai écrit sur mon premier ami, un garçon aux yeux perçants et au rire rapide, qui est plus tard devenu soldat dans une armée lointaine. J'ai écrit sur la ferme où j'ai passé des étés à aider mon oncle à cueillir des fruits et à couper l'herbe ; sur la rivière où j'ai appris à nager ; sur la tempête qui a fendu la grosse branche du vieil arbre dans notre cour."
+      },
+      {
+        english: "In each memory, I found a word, and in each word, I found a memory waiting to return.",
+        french: "Dans chaque souvenir, j'ai trouvé un mot, et dans chaque mot, j'ai trouvé un souvenir qui attendait de revenir."
+      },
+      {
+        english: "But life did not grow easier. After leaving the harbor town, I traveled inland, taking long walks through unfamiliar roads. I often stopped to rest on rough stone or dried grass, watching the sunlight change its color as the day passed. I stayed in inexpensive inns—small rooms with thin curtains, simple beds, and weak locks that offered little comfort. Still, there was freedom in that wandering. With every step I took, I realized I was not merely traveling through the world—I was traveling through myself.",
+        french: "Mais la vie ne s'est pas facilitée. Après avoir quitté la ville portuaire, j'ai voyagé à l'intérieur des terres, faisant de longues marches sur des routes inconnues. Je m'arrêtais souvent pour me reposer sur une pierre rugueuse ou de l'herbe séchée, regardant la lumière du soleil changer de couleur au fil de la journée. Je restais dans des auberges bon marché—petites chambres avec des rideaux fins, des lits simples et des serrures faibles qui offraient peu de confort. Pourtant, il y avait de la liberté dans cette errance. À chaque pas que je faisais, je réalisais que je ne voyageais pas seulement à travers le monde—je voyageais à travers moi-même."
+      },
+      {
+        english: "I took on various forms of work along the way. I learned how to use a hammer, how to manage tools, how to repair a bent wheel, how to read maps, how to write official letters, how to make measurements, and how to settle accounts. I learned that even the most \"ordinary\" labor carried its own form of quiet dignity. I found myself often thinking: A man is not defined by the job he does, but by the way he does it.",
+        french: "J'ai pris diverses formes de travail en cours de route. J'ai appris à utiliser un marteau, à gérer des outils, à réparer une roue tordue, à lire des cartes, à écrire des lettres officielles, à faire des mesures et à régler des comptes. J'ai appris que même le travail le plus \"ordinaire\" portait sa propre forme de dignité tranquille. Je me suis souvent retrouvé à penser : Un homme n'est pas défini par le travail qu'il fait, mais par la façon dont il le fait."
+      },
+      {
+        english: "What surprised me most was how often people revealed themselves through small things. A man who treated a stray dog with kindness was usually trustworthy; a man who spoke too loudly about his own virtues often had little real virtue at all. I learned that truth hides in details—in the tightness of a handshake, the direction of a person's eyes, the speed of their breath, the care they take with objects that are not their own.",
+        french: "Ce qui m'a le plus surpris, c'est la fréquence avec laquelle les gens se révélaient à travers de petites choses. Un homme qui traitait un chien errant avec gentillesse était généralement digne de confiance ; un homme qui parlait trop fort de ses propres vertus avait souvent peu de vraie vertu. J'ai appris que la vérité se cache dans les détails—dans la fermeté d'une poignée de main, la direction des yeux d'une personne, la vitesse de sa respiration, le soin qu'elle prend avec des objets qui ne lui appartiennent pas."
+      },
+      {
+        english: "It was during these travels that I began to understand the deeper structure of my life. I was not merely moving from place to place. I was learning the system of human nature, one interaction at a time.",
+        french: "C'est pendant ces voyages que j'ai commencé à comprendre la structure plus profonde de ma vie. Je ne me déplaçais pas simplement d'un endroit à l'autre. J'apprenais le système de la nature humaine, une interaction à la fois."
+      },
+      {
+        english: "And that is where the next chapter of my story begins.",
+        french: "Et c'est là que commence le prochain chapitre de mon histoire."
+      }
+    ]
+  }
